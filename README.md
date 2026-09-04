@@ -28,6 +28,7 @@ Algorithm:
 17)Stop the experiment.
 ```
 Output:
+
 [UI_UX_Experiment1_Lab_Report.pdf](https://github.com/user-attachments/files/31845426/UI_UX_Experiment1_Lab_Report.pdf)
 
 
