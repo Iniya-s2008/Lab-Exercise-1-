@@ -1,5 +1,9 @@
 # Lab-Exercise-1-
 
+NAME: INIYA S
+
+DATE : 03.09.2026
+
 Aim:
 
 To explore and understand the fundamentals of User Interface (UI) and User Experience (UX) design, differentiate between them using real-world examples, illustrate their interrelationship, and demonstrate the use of various UI/UX design tools for practical application.
